@@ -18,7 +18,7 @@ while (i < 10) {
 do {
     i++;
     console.log("do while loop is running " + i);
-}while (i < 10);
+}while (i < 1020);
 
 
 //for loop example
