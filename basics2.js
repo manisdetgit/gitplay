@@ -17,7 +17,7 @@ while (i < 10) {
 //do while loop example
 do {
     i++;
-    console.log("main - rebase do while loop is running " + i);
+    console.log("main1 - rebase do while loop is running " + i);
 }while (i < 1020);
 
 
